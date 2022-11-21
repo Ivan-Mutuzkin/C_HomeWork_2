@@ -1,0 +1,15 @@
+/Users/ivanmutuzkin/Desktop/C#_HomeWork_2/task1/bin/Debug/net6.0/task1
+/Users/ivanmutuzkin/Desktop/C#_HomeWork_2/task1/bin/Debug/net6.0/task1.deps.json
+/Users/ivanmutuzkin/Desktop/C#_HomeWork_2/task1/bin/Debug/net6.0/task1.runtimeconfig.json
+/Users/ivanmutuzkin/Desktop/C#_HomeWork_2/task1/bin/Debug/net6.0/task1.dll
+/Users/ivanmutuzkin/Desktop/C#_HomeWork_2/task1/bin/Debug/net6.0/task1.pdb
+/Users/ivanmutuzkin/Desktop/C#_HomeWork_2/task1/obj/Debug/net6.0/task1.csproj.AssemblyReference.cache
+/Users/ivanmutuzkin/Desktop/C#_HomeWork_2/task1/obj/Debug/net6.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanmutuzkin/Desktop/C#_HomeWork_2/task1/obj/Debug/net6.0/task1.AssemblyInfoInputs.cache
+/Users/ivanmutuzkin/Desktop/C#_HomeWork_2/task1/obj/Debug/net6.0/task1.AssemblyInfo.cs
+/Users/ivanmutuzkin/Desktop/C#_HomeWork_2/task1/obj/Debug/net6.0/task1.csproj.CoreCompileInputs.cache
+/Users/ivanmutuzkin/Desktop/C#_HomeWork_2/task1/obj/Debug/net6.0/task1.dll
+/Users/ivanmutuzkin/Desktop/C#_HomeWork_2/task1/obj/Debug/net6.0/refint/task1.dll
+/Users/ivanmutuzkin/Desktop/C#_HomeWork_2/task1/obj/Debug/net6.0/task1.pdb
+/Users/ivanmutuzkin/Desktop/C#_HomeWork_2/task1/obj/Debug/net6.0/task1.genruntimeconfig.cache
+/Users/ivanmutuzkin/Desktop/C#_HomeWork_2/task1/obj/Debug/net6.0/ref/task1.dll
